@@ -1,7 +1,7 @@
 Hey! Welcome to my Instagram Threads recreation.
 This project is my final project for App Team Carolina's iOS Learning Academy Fall 2023 using Swift.
 
-Using the integration of Firebase, my app include the features below.
+Using the integration of Firebase, the features below can be found in my recreation.
 
 **Authentication:**
    - **User Registration and Login:** Firebase Authentication allows for seamless user registration and login processes. Users can sign up using email/password or authenticate through third-party providers like Google, Facebook, or Twitter.
